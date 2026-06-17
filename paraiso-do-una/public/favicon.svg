@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Paraíso do Una">
+  <rect width="64" height="64" rx="18" fill="#2D4739"/>
+  <path d="M16 39c8 6 24 6 32 0" fill="none" stroke="#E9DDC8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M21 31c8 5 14 5 22 0" fill="none" stroke="#87B7AE" stroke-width="3" stroke-linecap="round"/>
+  <path d="M34 14c-10 3-15 10-14 21 10-2 17-10 18-20" fill="#556B4D"/>
+  <path d="M37 18c8 2 12 7 11 16-8-1-13-7-14-15" fill="#E9DDC8"/>
+</svg>
