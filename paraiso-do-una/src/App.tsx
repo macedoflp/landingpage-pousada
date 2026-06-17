@@ -302,15 +302,7 @@ function Hero() {
         style={{ y: textY }}
       >
         <div className="max-w-4xl">
-          <motion.div
-            initial={{ opacity: 0, y: 22 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.75, ease: [0.22, 1, 0.36, 1] }}
-            className="mb-7 inline-flex flex-wrap items-center gap-3 rounded-full border border-sand/35 bg-white/10 px-4 py-2 text-sm font-bold text-sand backdrop-blur-xl"
-          >
-            <MapPin size={16} aria-hidden="true" />
-            Morros - MA, às margens do Rio Una e Guarimã
-          </motion.div>
+
 
           <motion.h1
             initial={{ opacity: 0, y: 24 }}
